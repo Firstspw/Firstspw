@@ -30,8 +30,4 @@ and physical hardware, transforming complex ideas into reliable technologies.
 **Location:** Chiang Mai, Thailand <br>
 **Currently Leading:** CodeAIoT Club 
 
-<br><br>
-
-[ Email ](mailto:your@email.com) &nbsp;&nbsp;&nbsp; ｜ &nbsp;&nbsp;&nbsp; [ LinkedIn ](https://linkedin.com) &nbsp;&nbsp;&nbsp; ｜ &nbsp;&nbsp;&nbsp; [ Discord ](https://discord.com)
-
 </div>
