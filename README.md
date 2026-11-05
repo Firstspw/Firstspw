@@ -1,106 +1,111 @@
+<!-- แบนเนอร์ด้านบนพิมพ์ข้อความเอง (Typing Effect) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SUPHAWICH%20SUWANNARAT&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CodeAIoT%20Leader&descAlignY=55&descSize=20&animation=twinkling" />
+  <a href="https://github.com/Firstspw">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&height=100&lines=%3E_SYSTEM_INITIALIZED...;%3E_WELCOME_TO_FIRSTSPW'S_TERMINAL;%3E_FULL-STACK_DEV_+_IoT_ARCHITECT;%3E_LEADER_OF_CodeAIoT_CLUB;%3E_READY_FOR_NEW_MISSIONS_..." alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <h3> ⚡ INITIALIZING CYBERNETIC PROTOCOLS... </h3>
-  <p><b>System Status: ONLINE</b> | Location: Chiang Mai, Thailand 🇹🇭</p>
+  <img src="https://media.giphy.com/media/qgQUggCGVNbcQ/giphy.gif" width="600" alt="Cyberpunk GIF" style="border-radius: 10px; border: 2px solid #FF0055;">
 </div>
+<br>
 
----
-
-### 👨‍💻 ABOUT THE ARCHITECT
-
-- 🎓 **Academic:** IT Student (Higher Voc. Cert.) at Chiang Mai Technical College.
-- 👑 **Leadership:** Leading the **CodeAIoT Club** — orchestrating tech activities and automated web systems.
-- 🚀 **Development:** Crafting high-tech, cyber-inspired full-stack web applications & IoT solutions.
-- 🎨 **Design Philosophy:** Glassmorphism, neon glows, and dynamic Red & Blue palettes.
-- 🍰 **Entrepreneur:** Founder & Owner of **BANOFFEE CRAFT** (Artisanal homemade banoffee bakery).
-
----
-
-### ⚙️ TECH ARSENAL
-
+<!-- หน้าต่าง Terminal แนะนำตัว -->
 <div align="center">
-
-#### 🌐 FRONTEND & UI/UX
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-
-#### 🖧 BACKEND & DATABASE
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-#### 🤖 IoT & HARDWARE
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-
+  <pre style="text-align: left; display: inline-block; padding: 15px; border-radius: 10px; background-color: #0D1117; border: 1px solid #00F3FF; color: #A9B2C3; font-family: 'Fira Code', monospace;">
+<span style="color: #FF0055;">suphawich@server</span>:<span style="color: #00F3FF;">~</span>$ whoami
+> Name      : Suphawich Suwannarat (First)
+> Role      : Full-Stack Developer & IoT Enthusiast
+> Location  : Chiang Mai, Thailand (TH)
+> Base      : Chiang Mai Technical College (IT Dept)
+> Ventures  : Founder @ BANOFFEE CRAFT
+> Aesthetics: Cyberpunk / Glassmorphism / Neon (Red & Blue)
+> Hobbies   : GTA V (FiveM), Volleyball, Vibing to Drake
+<span style="color: #FF0055;">suphawich@server</span>:<span style="color: #00F3FF;">~</span>$ ./execute_skills.sh █
+  </pre>
 </div>
 
 ---
 
-### 🚀 MISSION LOGS (Featured Projects)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔴 XAUUSD Trading Terminal</h3>
-      <p>Interactive Forex trading terminal web app featuring real-time technical chart overlays, zone indicators, and live news feeds.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔵 CodeAIoT Smart Attendance</h3>
-      <p>Automated Google Apps Script QR code attendance system featuring real-time webcam scanning and visual notifications.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔴 Ad-Free Web Music Player</h3>
-      <p>Custom web music player leveraging YouTube APIs with background playback, state persistence, and a sleek cyber UI.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔵 IoT Smart Environments</h3>
-      <p>Simulated automatic air purifiers and hardware prototyping using ESP32, PM2.5/MQ sensors, and I2C LCD displays.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GITHUB TELEMETRY
+### 💻 <b>TECH & TOOLS ARSENAL</b>
 
 <div align="center">
-
-<!-- สถิติปรับสีเป็น Neon Red & Neon Blue ให้เข้ากับสไตล์ Cybernetic -->
-<img src="https://github-readme-stats.vercel.app/api?username=Firstspw&show_icons=true&bg_color=0D1117&title_color=FF0055&text_color=A9B2C3&icon_color=00D2FF&border_color=FF0055&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstspw&layout=compact&bg_color=0D1117&title_color=00D2FF&text_color=A9B2C3&border_color=00D2FF&hide_border=false" alt="Top Languages" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Firstspw&background=0D1117&stroke=00D2FF&ring=FF0055&fire=FF0055&currStreakNum=A9B2C3&sideNums=A9B2C3&currStreakLabel=00D2FF&sideLabelsColor=00D2FF&dates=A9B2C3&hide_border=false" alt="GitHub Streak" />
-
+  <!-- ใช้ Skill Icons แบบรูปภาพโค้งมนและมีมิติ -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nextjs,nestjs,php,python,mysql,arduino,github,vscode,ps,ai,figma&theme=dark&perline=8" />
+  </a>
 </div>
 
 ---
 
-### 🔗 ESTABLISH CONNECTION
+### 🏆 <b>GITHUB TROPHIES</b>
 
 <div align="center">
+  <!-- ถ้วยรางวัล Github ตามผลงาน -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Firstspw&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+---
 
-<br><br>
+### 📡 <b>SYSTEM TELEMETRY (GITHUB STATS)</b>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Firstspw&color=FF0055&style=flat-square&label=PROFILE+VIEWS)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Firstspw&show_icons=true&bg_color=0D1117&title_color=FF0055&text_color=A9B2C3&icon_color=00F3FF&border_color=FF0055&hide_border=false&count_private=true&include_all_commits=true" height="195" alt="Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstspw&layout=compact&bg_color=0D1117&title_color=00F3FF&text_color=A9B2C3&border_color=00F3FF&hide_border=false" height="195" alt="Top Langs" />
+  </a>
+</div>
 
-**[ SYSTEM_SHUTDOWN ] - Made with 💻 & ☕ by Firstspw**
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firstspw&background=0D1117&stroke=00F3FF&ring=FF0055&fire=FF0055&currStreakNum=A9B2C3&sideNums=A9B2C3&currStreakLabel=00F3FF&sideLabelsColor=00F3FF&dates=A9B2C3&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 <b>CONTRIBUTION GRAPH (DYNAMIC SNAKE)</b>
+
+<div align="center">
+  <!-- รูปนี้จะขยับได้เมื่อคุณตั้งค่า Github Actions (ดูวิธีตั้งค่าด้านล่าง) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Firstspw/Firstspw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Firstspw/Firstspw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Firstspw/Firstspw/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+### 🚀 <b>RECENT COMMUNICATOR (LATEST PROJECTS)</b>
+
+| 🔴 XAUUSD Trading Terminal | 🔵 CodeAIoT Smart Attendance |
+| :--- | :--- |
+| Interactive Forex terminal with real-time charts, zone indicators, and news feeds. | Automated Apps Script QR attendance with real-time webcam scanning. |
+| 🔴 **Ad-Free Music Player** | 🔵 **IoT Smart Purifier** |
+| Custom YouTube API-based web player with background playback and state persistence. | Simulated air purifier hardware prototyping using ESP32 & PM2.5/MQ sensors. |
+
+---
+
+### 🌐 <b>ESTABLISH CONNECTION</b>
+
+<div align="center">
+  <a href="https://github.com/Firstspw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Firstspw&color=00F3FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>"Writing code with Neon Blue logic and Neon Red passion."</i><br>
+  <b>[ TERMINAL SESSION DETACHED ]</b>
 </div>
